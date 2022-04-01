@@ -10,48 +10,14 @@
 #include <cstdio>
 #include <string>
 #include <map>
-
-std::string habb[] = {"pop",
-					"no",
-					"zip",
-					"zotz",
-					"tzec",
-					"xul",
-					"yoxkin",
-					"mol",
-					"chen",
-					"yax",
-					"zac",
-					"ceh",
-					"mac",
-					"kankin",
-					"muan",
-					"pax",
-					"koyab",
-					"cumhu"
-					"uayet"};
-
-std::string tzolkin[] = { "imix",
-						"ik",
-						"akbal",
-						"kan",
-						"chicchan",
-						"cimi",
-						"manik",
-						"lamat",
-						"muluk",
-						"ok",
-						"chuen",
-						"eb",
-						"ben",
-						"ix",
-						"mem",
-						"cib",
-						"caban",
-						"eznab",
-						"canac",
-						"ahau"};
-std::map<std::string, int> mapHabb;
+using namespace std;
+string habb[] = { "pop", "no", "zip", "zotz", "tzec", "xul", "yoxkin", "mol",
+		"chen", "yax", "zac", "ceh", "mac", "kankin", "muan", "pax", "koyab",
+		"cumhu", "uayet" };
+string tzolkin[] = { "imix", "ik", "akbal", "kan", "chicchan", "cimi", "manik",
+		"lamat", "muluk", "ok", "chuen", "eb", "ben", "ix", "mem", "cib",
+		"caban", "eznab", "canac", "ahau" };
+map<string, int> mapHabb;
 
 int main() {
 	for(int i = 0; i < 19; ++i)
@@ -62,8 +28,8 @@ int main() {
 	while(n--) {
 		int yy, mm, dd;
 		char ch;
-		std::string mm_;
-		std::cin >> dd >> ch >> mm_ >> yy;
+		string mm_;
+		cin >> dd >> ch >> mm_ >> yy;
 		mm = mapHabb[mm_];
 		int day_cnt = dd + 20 * mm + 365 * yy;
 		int tzoyy, tzomm, tzodd;
@@ -71,7 +37,7 @@ int main() {
 		int day_remain = day_cnt % 260;
 		tzodd = day_remain % 13 + 1;
 		tzomm = day_remain % 20;
-		std::cout << tzodd << ' ' << tzolkin[tzomm] << ' ' << tzoyy << '\n';
+		cout << tzodd << ' ' << tzolkin[tzomm] << ' ' << tzoyy << '\n';
 	}
 	return 0;
 }
