@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Vim Cache
+*.cpp~
+*.swp
+*.un~
+*.c~
