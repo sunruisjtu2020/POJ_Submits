@@ -2,7 +2,7 @@
 *	Problem 1000
 *	http://poj.org/problem?id=1000
 *	Date 3/29/2022
-* 	Accepted
+*	Accepted
 */
 #include <cstdio>
 
