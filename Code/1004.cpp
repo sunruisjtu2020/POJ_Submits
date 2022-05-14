@@ -2,7 +2,7 @@
 *	Problem 1004 - Financial Management
 *	http://poj.org/problem?id=1004
 *	Date 3/30/2022
-* 	Accepted
+*	Accepted
 *	MATH - Floating Numbers
 */
 

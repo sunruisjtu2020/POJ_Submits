@@ -2,7 +2,7 @@
 *	Problem 1003 - Hangover
 *	http://poj.org/problem?id=1003
 *	Date 3/30/2022
-* 	Accepted
+*	Accepted
 *	MATH - Floating Numbers
 */
 

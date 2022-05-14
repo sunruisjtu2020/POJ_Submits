@@ -2,7 +2,7 @@
 *	Problem 1007 - DNA Sorting
 *	http://poj.org/problem?id=1007
 *	Date 3/30/2022
-* 	Accepted
+*	Accepted
 *	Sort - Merge Sort
 */
 

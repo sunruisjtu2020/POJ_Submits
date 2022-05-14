@@ -2,7 +2,7 @@
 *	Problem 3461 - Oulipo
 *	http://poj.org/problem?id=3461
 *	Date 3/29/2022
-* 	Accepted
+*	Accepted
 *	Strings - KMP Substring Search
 */
 

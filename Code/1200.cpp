@@ -2,7 +2,7 @@
 *	Problem 1200 - Crazy Search
 *	http://poj.org/problem?id=1200
 *	Date 3/30/2022
-* 	Accepted
+*	Accepted
 *	String - Hash
 */
 

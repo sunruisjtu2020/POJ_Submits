@@ -2,7 +2,7 @@
 *	Problem 2411 - Mondriaan's Dream
 *	http://poj.org/problem?id=2411
 *	Date 3/29/2022
-* 	Accepted
+*	Accepted
 *	Dynamic Planning - Status Compression
 */
 #include <cstring>

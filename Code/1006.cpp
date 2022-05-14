@@ -2,7 +2,7 @@
 *	Problem 1006 - Biorhythms
 *	http://poj.org/problem?id=1006
 *	Date 3/30/2022
-* 	Accepted
+*	Accepted
 *	Math - China Remaining Theory
 */
 

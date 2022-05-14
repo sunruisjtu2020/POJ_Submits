@@ -2,7 +2,7 @@
 *	Problem 1185 - Artillery Positions
 *	http://poj.org/problem?id=1185
 *	Date 3/29/2022
-* 	Accepted
+*	Accepted
 *	Dynamic Planning - Status Compression
 */
 

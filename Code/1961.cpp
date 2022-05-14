@@ -2,7 +2,7 @@
 *	Problem 1961 - Period
 *	http://poj.org/problem?id=1961
 *	Date 3/30/2022
-* 	Accepted
+*	Accepted
 *	String - KMP Substring Search
 */
 

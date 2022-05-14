@@ -2,7 +2,7 @@
 *	Problem 1008 - Maya Calendar
 *	http://poj.org/problem?id=1008
 *	Date 4/1/2022
-* 	Accepted
+*	Accepted
 *	Simulation
 */
 

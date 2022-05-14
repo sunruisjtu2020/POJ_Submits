@@ -2,7 +2,7 @@
 *	Problem 1005 - I Think I Need a Houseboat
 *	http://poj.org/problem?id=1005
 *	Date 3/30/2022
-* 	Accepted
+*	Accepted
 *	MATH - Floating Numbers
 */
 

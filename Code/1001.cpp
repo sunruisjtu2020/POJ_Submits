@@ -2,7 +2,7 @@
 *	Problem 1001 - Exponentiation
 *	http://poj.org/problem?id=1001
 *	Date 3/29/2022
-* 	Accepted
+*	Accepted
 *	High precision calculations
 */
 #include <cstdio>

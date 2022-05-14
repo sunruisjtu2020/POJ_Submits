@@ -2,7 +2,7 @@
 *	Problem 3468 - A Simple Problem with Integers
 *	http://poj.org/problem?id=3468
 *	Date 3/29/2022
-* 	Accepted
+*	Accepted
 *	Data Structure - Simple Segment Tree
 */
 

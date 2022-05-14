@@ -2,7 +2,7 @@
 *	Problem 1061 - The Date of Frogs
 *	http://poj.org/problem?id=1061
 *	Date 3/29/2022
-* 	Accepted
+*	Accepted
 *	Math - Extended GCD
 */
 #include <cstdio>

@@ -2,7 +2,7 @@
 *	Problem 1002 - 487-3279
 *	http://poj.org/problem?id=1002
 *	Date 3/29/2022
-* 	Accepted
+*	Accepted
 *	Sort - Bucket Sorting
 */
 

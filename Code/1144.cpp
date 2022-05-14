@@ -2,7 +2,7 @@
 *	Problem 1144 - Network
 *	http://poj.org/problem?id=1144
 *	Date 3/29/2022
-* 	Accepted
+*	Accepted
 *	Graph Theory - Tarjan Algorithm
 */
 
