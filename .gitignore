@@ -36,3 +36,6 @@
 *.swp
 *.un~
 *.c~
+
+# macOS Files
+*.DS_Store
